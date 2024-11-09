@@ -1,0 +1,1054 @@
+{
+    "H": {
+        "name": "Водород",
+        "oxidation_states": [1, -1],
+        "oxidation_in_oxides": {
+            "O": [1]
+        },
+        "electronegativity": 2.20,
+        "category": "nonmetal"
+    },
+    "He": {
+        "name": "Гелий",
+        "oxidation_states": [0],
+        "oxidation_in_oxides": {},
+        "electronegativity": null,
+        "category": "nonmetal"
+    },
+    "Li": {
+        "name": "Литий",
+        "oxidation_states": [1],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 0.98,
+        "category": "metal"
+    },
+    "Be": {
+        "name": "Бериллий",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 1.57,
+        "category": "metal"
+    },
+    "B": {
+        "name": "Бор",
+        "oxidation_states": [3, -3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 2.04,
+        "category": "metalloid"
+    },
+    "C": {
+        "name": "Углерод",
+        "oxidation_states": [-4, 2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 2.55,
+        "category": "nonmetal"
+    },
+    "N": {
+        "name": "Азот",
+        "oxidation_states": [-3, 1, 2, 3, 4, 5],
+        "oxidation_in_oxides": {
+            "O": [1, 2, 3, 4, 5]
+        },
+        "electronegativity": 3.04,
+        "category": "nonmetal"
+    },
+    "O": {
+        "name": "Кислород", 
+        "oxidation_states": [-1, -2, 2],
+        "oxidation_in_oxides": {},
+        "electronegativity": 3.44,
+        "category": "nonmetal"
+    },
+    "F": {
+        "name": "Фтор",
+        "oxidation_states": [-1],
+        "oxidation_in_oxides": {},
+        "electronegativity": 3.98,
+        "category": "nonmetal"
+    },
+    "Ne": {
+        "name": "Неон",
+        "oxidation_states": [0],
+        "oxidation_in_oxides": {},
+        "electronegativity": null,
+        "category": "nonmetal"
+    },
+    "Na": {
+        "name": "Натрий",
+        "oxidation_states": [1],
+        "oxidation_in_oxides": {
+            "O": [1]
+        },
+        "electronegativity": 0.93,
+        "category": "metal"
+    },
+    "Mg": {
+        "name": "Магний",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 1.31,
+        "category": "metal"
+    },
+    "Al": {
+        "name": "Алюминий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.61,
+        "category": "metal"
+    },
+    "Si": {
+        "name": "Кремний",
+        "oxidation_states": [-4, 2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.90,
+        "category": "metalloid"
+    },
+    "P": {
+        "name": "Фосфор",
+        "oxidation_states": [-3, 1, 3, 4, 5],
+        "oxidation_in_oxides": {
+            "O": [1, 3, 4, 5]
+        },
+        "electronegativity": 2.19,
+        "category": "nonmetal"
+    },
+    "S": {
+        "name": "Сера",
+        "oxidation_states": [-2, 2, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 2.58,
+        "category": "nonmetal"
+    },
+    "Cl": {
+        "name": "Хлор",
+        "oxidation_states": [-1, 1, 3, 5, 7],
+        "oxidation_in_oxides": {
+            "O": [1, 3, 5, 7]
+        },
+        "electronegativity": 3.16,
+        "category": "nonmetal"
+    },
+    "Ar": {
+        "name": "Аргон",
+        "oxidation_states": [0],
+        "oxidation_in_oxides": {},
+        "electronegativity": null,
+        "category": "nonmetal"
+    },
+    "K": {
+        "name": "Калий",
+        "oxidation_states": [1],
+        "oxidation_in_oxides": {
+            "O": [1]
+        },
+        "electronegativity": 0.82,
+        "category": "metal"
+    },
+    "Ca": {
+        "name": "Кальций",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 1.00,
+        "category": "metal"
+    },
+    "Sc": {
+        "name": "Скандий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.36,
+        "category": "metal"
+    },
+    "Ti": {
+        "name": "Титан",
+        "oxidation_states": [3, 4],
+        "oxidation_in_oxides": {
+            "O": [3, 4]
+        },
+        "electronegativity": 1.54,
+        "category": "metal"
+    },
+    "V": {
+        "name": "Ванадий",
+        "oxidation_states": [2, 3, 4, 5],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 5]
+        },
+        "electronegativity": 1.63,
+        "category": "metal"
+    },
+    "Cr": {
+        "name": "Хром",
+        "oxidation_states": [2, 3, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 6]
+        },
+        "electronegativity": 1.66,
+        "category": "metal"
+    },
+    "Mn": {
+        "name": "Марганец",
+        "oxidation_states": [2, 3, 4, 6, 7],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 6, 7]
+        },
+        "electronegativity": 1.55,
+        "category": "metal"
+    },
+    "Fe": {
+        "name": "Железо",
+        "oxidation_states": [2, 3, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.83,
+        "category": "metal"
+    },
+    "Co": {
+        "name": "Кобальт",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.88,
+        "category": "metal"
+    },
+    "Ni": {
+        "name": "Никель",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.91,
+        "category": "metal"
+    },
+    "Cu": {
+        "name": "Медь",
+        "oxidation_states": [1, 2, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 2, 3]
+        },
+        "electronegativity": 1.90,
+        "category": "metal"
+    },
+    "Zn": {
+        "name": "Цинк",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 1.65,
+        "category": "metal"
+    },
+    "Ga": {
+        "name": "Галий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.81,
+        "category": "metal"
+    },
+    "Ge": {
+        "name": "Германий",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 2.01,
+        "category": "metalloid"
+    },
+    "As": {
+        "name": "Арсен",
+        "oxidation_states": [-3, 3, 5],
+        "oxidation_in_oxides": {
+            "O": [3, 5]
+        },
+        "electronegativity": 2.18,
+        "category": "metalloid"
+    },
+    "Se": {
+        "name": "Селен",
+        "oxidation_states": [-2, 2, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 2.55,
+        "category": "nonmetal"
+    },
+    "Br": {
+        "name": "Бром",
+        "oxidation_states": [-1, 1, 3, 5, 7],
+        "oxidation_in_oxides": {
+            "O": [1, 3, 5, 7]
+        },
+        "electronegativity": 2.96,
+        "category": "nonmetal"
+    },
+    "Kr": {
+        "name": "Криптон",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+          "O": [2, 4]
+        },
+        "electronegativity": null,
+        "category": "nonmetal"
+    },
+    "Rb": {
+        "name": "Рубидий",
+        "oxidation_states": [1],
+        "oxidation_in_oxides": {
+            "O": [1]
+        },
+        "electronegativity": 0.82,
+        "category": "metal"
+    },
+    "Sr": {
+        "name": "Стронций",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 0.95,
+        "category": "metal"
+    },
+    "Y": {
+        "name": "Иттрий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.22,
+        "category": "metal"
+    },
+    "Zr": {
+        "name": "Цирконий",
+        "oxidation_states": [4],
+        "oxidation_in_oxides": {
+            "O": [4]
+        },
+        "electronegativity": 1.33,
+        "category": "metal"
+    },
+    "Nb": {
+        "name": "Ниобий",
+        "oxidation_states": [2, 3, 4, 5],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 5]
+        },
+        "electronegativity": 1.60,
+        "category": "metal"
+    },
+    "Mo": {
+        "name": "Молибден",
+        "oxidation_states": [2, 3, 4, 5, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 5, 6]
+        },
+        "electronegativity": 2.16,
+        "category": "metal"
+    },
+    "Tc": {
+        "name": "Технеций",
+        "oxidation_states": [2, 4, 6, 7],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6, 7]
+        },
+        "electronegativity": 1.90,
+        "category": "metal"
+    },
+    "Ru": {
+        "name": "Рутений",
+        "oxidation_states": [2, 3, 4, 6, 8],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 6, 8]
+        },
+        "electronegativity": 2.20,
+        "category": "metal"
+    },
+    "Rh": {
+        "name": "Родий",
+        "oxidation_states": [2, 3, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 6]
+        },
+        "electronegativity": 2.28,
+        "category": "metal"
+    },
+    "Pd": {
+        "name": "Палладий",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 2.20,
+        "category": "metal"
+    },
+    "Ag": {
+        "name": "Серебро",
+        "oxidation_states": [1, 2, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 2, 3]
+        },
+        "electronegativity": 1.93,
+        "category": "metal"
+    },
+    "Cd": {
+        "name": "Кадмий",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 1.69,
+        "category": "metal"
+    },
+    "In": {
+        "name": "Индий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.78,
+        "category": "metal"
+    },
+    "Sn": {
+        "name": "Олово",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.96,
+        "category": "metal"
+    },
+    "Sb": {
+        "name": "Сурьма",
+        "oxidation_states": [-3, 3, 5],
+        "oxidation_in_oxides": {
+            "O": [3, 5]
+        },
+        "electronegativity": 2.05,
+        "category": "metalloid"
+    },
+    "I": {
+        "name": "Йод",
+        "oxidation_states": [-1, 1, 3, 5, 7],
+        "oxidation_in_oxides": {
+            "O": [1, 3, 5, 7]
+        },
+        "electronegativity": 2.66,
+        "category": "nonmetal"
+    },
+    "Te": {
+        "name": "Теллур",
+        "oxidation_states": [-2, 2, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 2.01,
+        "category": "metalloid"
+    },
+    "Xe": {
+        "name": "Ксенон",
+        "oxidation_states": [2, 4, 6, 8],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6, 8]
+        },
+        "electronegativity": 2.60,
+        "category": "nonmetal"
+    },
+    "Cs": {
+        "name": "Цезий",
+        "oxidation_states": [1],
+        "oxidation_in_oxides": {
+            "O": [1]
+        },
+        "electronegativity": 0.79,
+        "category": "metal"
+    },
+    "Ba": {
+        "name": "Барий",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 0.89,
+        "category": "metal"
+    },
+    "La": {
+        "name": "Лантан",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.10,
+        "category": "metal"
+    },
+    "Ce": {
+        "name": "Церий",
+        "oxidation_states": [3, 4],
+        "oxidation_in_oxides": {
+            "O": [3, 4]
+        },
+        "electronegativity": 1.12,
+        "category": "metal"
+    },
+    "Pr": {
+        "name": "Празеодим",
+        "oxidation_states": [3, 4],
+        "oxidation_in_oxides": {
+            "O": [3, 4]
+        },
+        "electronegativity": 1.13,
+        "category": "metal"
+    },
+    "Nd": {
+        "name": "Неодим",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.14,
+        "category": "metal"
+    },
+    "Pm": {
+        "name": "Прометий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.13,
+        "category": "metal"
+    },
+    "Sm": {
+        "name": "Самарий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.17,
+        "category": "metal"
+    },
+    "Eu": {
+        "name": "Европий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.20,
+        "category": "metal"
+    },
+    "Gd": {
+        "name": "Гадолиний",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.20,
+        "category": "metal"
+    },
+    "Tb": {
+        "name": "Тербий",
+        "oxidation_states": [3, 4],
+        "oxidation_in_oxides": {
+            "O": [3, 4]
+        },
+        "electronegativity": 1.23,
+        "category": "metal"
+    },
+    "Dy": {
+        "name": "Диспрозий",
+        "oxidation_states": [3, 4],
+        "oxidation_in_oxides": {
+            "O": [3, 4]
+        },
+        "electronegativity": 1.22,
+        "category": "metal"
+    },
+    "Ho": {
+        "name": "Гольмий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.23,
+        "category": "metal"
+    },
+    "Er": {
+        "name": "Эрбий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.24,
+        "category": "metal"
+    },
+    "Tm": {
+        "name": "Тулий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.25,
+        "category": "metal"
+    },
+    "Yb": {
+        "name": "Иттербий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.10,
+        "category": "metal"
+    },
+    "Lu": {
+        "name": "Лютеций",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.27,
+        "category": "metal"
+    },
+    "Hf": {
+        "name": "Гафний",
+        "oxidation_states": [4],
+        "oxidation_in_oxides": {
+            "O": [4]
+        },
+        "electronegativity": 1.30,
+        "category": "metal"
+    },
+     "Ta": {
+        "name": "Тантал",
+        "oxidation_states": [2, 3, 4, 5],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 5]
+        },
+        "electronegativity": 1.50,
+        "category": "metal"
+    },
+    "W": {
+        "name": "Вольфрам",
+        "oxidation_states": [2, 3, 4, 5, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 5, 6]
+        },
+        "electronegativity": 2.36,
+        "category": "metal"
+    },
+    "Re": {
+        "name": "Рений",
+        "oxidation_states": [2, 3, 4, 6, 7],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 6, 7]
+        },
+        "electronegativity": 1.90,
+        "category": "metal"
+    },
+    "Os": {
+        "name": "Осмий",
+        "oxidation_states": [3, 4, 6, 8],
+        "oxidation_in_oxides": {
+            "O": [3, 4, 6, 8]
+        },
+        "electronegativity": 2.20,
+        "category": "metal"
+    },
+    "Ir": {
+        "name": "Иридий",
+        "oxidation_states": [2, 3, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 6]
+        },
+        "electronegativity": 2.20,
+        "category": "metal"
+    },
+    "Pt": {
+        "name": "Платина",
+        "oxidation_states": [2, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 2.28,
+        "category": "metal"
+    },
+    "Au": {
+        "name": "Золото",
+        "oxidation_states": [1, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 3]
+        },
+        "electronegativity": 2.54,
+        "category": "metal"
+    },
+    "Hg": {
+        "name": "Ртуть",
+        "oxidation_states": [1, 2],
+        "oxidation_in_oxides": {
+            "O": [1, 2]
+        },
+        "electronegativity": 2.00,
+        "category": "metal"
+    },
+    "Tl": {
+        "name": "Таллий",
+        "oxidation_states": [1, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 3]
+        },
+        "electronegativity": 1.62,
+        "category": "metal"
+    },
+    "Pb": {
+        "name": "Свинец",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 2.33,
+        "category": "metal"
+    },
+    "Bi": {
+        "name": "Висмут",
+        "oxidation_states": [-3, 3, 5],
+        "oxidation_in_oxides": {
+            "O": [3, 5]
+        },
+        "electronegativity": 2.02,
+        "category": "metal"
+    },
+    "Po": {
+        "name": "Полоний",
+        "oxidation_states": [-2, 2, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 2.00,
+        "category": "metalloid"
+    },
+    "At": {
+        "name": "Астат",
+        "oxidation_states": [-1, 1, 3, 5, 7],
+        "oxidation_in_oxides": {
+            "O": [1, 3, 5, 7]
+        },
+        "electronegativity": 2.2,
+        "category": "metalloid"
+    },
+    "Rn": {
+        "name": "Радон",
+        "oxidation_states": [2, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 2.2,
+        "category": "noble gas"
+    },
+    "Fr": {
+        "name": "Франций",
+        "oxidation_states": [1],
+        "oxidation_in_oxides": {
+            "O": [1]
+        },
+        "electronegativity": 0.7,
+        "category": "alkali metal"
+    },
+    "Ra": {
+        "name": "Радий",
+        "oxidation_states": [2],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 0.9,
+        "category": "alkaline earth metal"
+    },
+    "Ac": {
+        "name": "Актиний",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.1,
+        "category": "actinide"
+    },
+    "Th": {
+        "name": "Торий",
+        "oxidation_states": [2, 3, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Pa": {
+        "name": "Протактиний",
+        "oxidation_states": [3, 4, 5],
+        "oxidation_in_oxides": {
+            "O": [3, 4, 5]
+        },
+        "electronegativity": 1.50,
+        "category": "actinide"
+    },
+    "U": {
+        "name": "Уран",
+        "oxidation_states": [3, 4, 5, 6],
+        "oxidation_in_oxides": {
+            "O": [3, 4, 5, 6]
+        },
+        "electronegativity": 1.38,
+        "category": "actinide"
+    },
+    "Np": {
+        "name": "Нептуний",
+        "oxidation_states": [3, 4, 5, 6, 7],
+        "oxidation_in_oxides": {
+            "O": [3, 4, 5, 6, 7]
+        },
+        "electronegativity": 1.36,
+        "category": "actinide"
+    },
+    "Pu": {
+        "name": "Плутоний",
+        "oxidation_states": [3, 4, 5, 6, 7],
+        "oxidation_in_oxides": {
+            "O": [3, 4, 5, 6, 7]
+        },
+        "electronegativity": 1.28,
+        "category": "actinide"
+    },
+    "Am": {
+        "name": "Америций",
+        "oxidation_states": [2, 3, 4, 5, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 5, 6]
+        },
+        "electronegativity": 1.13,
+        "category": "actinide"
+    },
+    "Cm": {
+        "name": "Кюрий",
+        "oxidation_states": [2, 3, 4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4, 6]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Bk": {
+        "name": "Берклий",
+        "oxidation_states": [2, 3, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Cf": {
+        "name": "Калифорний",
+        "oxidation_states": [2, 3, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 3, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Es": {
+        "name": "Эйнштейний",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Fm": {
+        "name": "Фермий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Md": {
+        "name": "Менделевий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "No": {
+        "name": "Нобелий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+     "Lr": {
+        "name": "Лаврентий",
+        "oxidation_states": [3],
+        "oxidation_in_oxides": {
+            "O": [3]
+        },
+        "electronegativity": 1.30,
+        "category": "actinide"
+    },
+    "Rf": {
+        "name": "Резерфордий",
+        "oxidation_states": [4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Db": {
+        "name": "Дубний",
+        "oxidation_states": [4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Sg": {
+        "name": "Сиборгий",
+        "oxidation_states": [6],
+        "oxidation_in_oxides": {
+            "O": [2, 6]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Bh": {
+        "name": "Борий",
+        "oxidation_states": [3, 5],
+        "oxidation_in_oxides": {
+            "O": [2, 5]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Hs": {
+        "name": "Хассий",
+        "oxidation_states": [4, 6],
+        "oxidation_in_oxides": {
+            "O": [2, 4, 6]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Mt": {
+        "name": "Мейтнерий",
+        "oxidation_states": [4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Ds": {
+        "name": "Дармштадтий",
+        "oxidation_states": [4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Rg": {
+        "name": "Рентгений",
+        "oxidation_states": [1, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Cn": {
+        "name": "Коперниций",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "transition metal"
+    },
+    "Nh": {
+        "name": "Нихоний",
+        "oxidation_states": [1, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "post-transition metal"
+    },
+    "Fl": {
+        "name": "Флеровий",
+        "oxidation_states": [2, 4],
+        "oxidation_in_oxides": {
+            "O": [2, 4]
+        },
+        "electronegativity": 1.30,
+        "category": "post-transition metal"
+    },
+    "Mc": {
+        "name": "Московий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "post-transition metal"
+    },
+    "Lv": {
+        "name": "Ливерморий",
+        "oxidation_states": [2, 3],
+        "oxidation_in_oxides": {
+            "O": [2, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "post-transition metal"
+    },
+    "Ts": {
+        "name": "Теннессин",
+        "oxidation_states": [1, 3],
+        "oxidation_in_oxides": {
+            "O": [1, 3]
+        },
+        "electronegativity": 1.30,
+        "category": "metalloid"
+    },
+    "Og": {
+        "name": "Оганесон",
+        "oxidation_states": [0],
+        "oxidation_in_oxides": {
+            "O": [2]
+        },
+        "electronegativity": 1.30,
+        "category": "noble gas"
+    }
+}
